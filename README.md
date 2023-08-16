@@ -2,7 +2,7 @@
 
 The quantum foundry internship was an 8 week program at UCSB where I had the pleasure of working on aluminum gallium arsendide micro-ring resonators in the quantum photonics lab. My research focued on electro-optic tuning on the AlGaAs material platform. One of the most imporant tasks of my research was to write a script that would find split peaks at single resonances.
 
-![Splitting at a single resonance (a zoomed in subplot of the transmission spectra]("")
+![Splitting at a single resonance (a zoomed in subplot of the transmission spectra]("diced_dev32_1549.56.png")
 
 ## Split Peak Detection
 
